@@ -35,7 +35,7 @@ Develop a Java-based application to simulate a food ordering system and generate
 
 ---
 
-## 📸 Output Screenshots
+## Output Screenshots
 
 <div align="center">
 
